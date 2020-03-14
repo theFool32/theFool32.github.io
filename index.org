@@ -1,0 +1,23 @@
+#+SETUPFILE: theme-rose.setup
+#+TITLE: Jie Li (李 杰)
+
+[[https://scholar.google.com/citations?user=qmbcL0AAAAAJ&hl=en&oi=sra][Google Scholar]] / [[https://github.com/theFool32][GitHub]]
+
+* About Me
+I am currently a first year Ph.D candidate at [[http://mac.xmu.edu.cn/][MAC Lab]], School of Informatics, Xiamen University.
+My advisor is Prof. [[http://mac.xmu.edu.cn/rrji-en.html][Rongrong Ji]].
+My research interests are in machine learning and computer vision, especially in robust deep learning.
+
+* Publications
+** Conference
+- *Jie Li*, Rongrong Ji, Hong Liu, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian. Projection & Probability-Driven Black-Box Attack. *CVPR, 2020.* [[https://github.com/theFool32/PPBA][CODES]]
+- Hong Liu, Rongrong Ji, *Jie Li*, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang. [[http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Universal_Adversarial_Perturbation_via_Prior_Driven_Uncertainty_Approximation_ICCV_2019_paper.html][Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation]]. *ICCV, 2019. (Oral).* [[https://github.com/LynnHongLiu/PDUA][CODES]]
+- *Jie Li*, Rongrong Ji, Hong Liu, Xiaopeng Hong, Yue Gao, Qi Tian. [[http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Universal_Perturbation_Attack_Against_Image_Retrieval_ICCV_2019_paper.html][Universal Perturbation Attack Against Image Retrieval]]. *ICCV, 2019.* [[https://github.com/theFool32/UAP_retrieval][CODES]]
+- Hong Liu, *Jie Li*, Rongrong Ji, and Yongjian Wu. [[https://aaai.org/ojs/index.php/AAAI/article/view/4899/4772][Learning Neural Bag-of-Matrix-Summarization with Riemannian Network]]. *AAAI, 2019.* [[https://github.com/theFool32/BoMS][CODES]]
+
+* Activies
+Conference reviewer: CVPR'20.
+* Contact
+*Institution:* School of Informatics, Xiamen University, China\\
+*Address:* Room 701, Administration Building #B, Haiyun Park, Xiamen University, 361005\\
+*E-Mail:* [[mailto:lijie.32@outlook.com][lijie.32[AT]outlook.com]] or [[mailto:saber.rl32@gmail.com][saber.rl32[AT]gmail.com]] or [[mailto:lijie32@stu.xmu.edu.cn][lijie32[AT]stu.xmu.edu.cn]]

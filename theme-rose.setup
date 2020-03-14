@@ -1,0 +1,10 @@
+# -*- mode: org; -*-
+
+#+HTML_HEAD: <link rel="shortcut icon" href="/images/rose-red.png" type="image/x-icon" />
+#+HTML_HEAD: <link rel="stylesheet" href="//cdn.bootcss.com/animate.css/3.7.2/animate.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/style.css" />
+
+#+HTML_HEAD: <script src="//cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+#+HTML_HEAD: <script src="/js/darkreader.js"></script>
+#+HTML_HEAD: <script src="/js/main.js"></script>
