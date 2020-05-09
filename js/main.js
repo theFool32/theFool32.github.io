@@ -97,7 +97,7 @@ $(document).ready(() => {
 // Resolve current theme color.
 let isDark = 'false';
 
-if (localStorage.getItem('isDark') == null || localStorage.getItem('isDark') == "true") {
+if (localStorage.getItem('isDark') == "true") {
     toggleColor();
 }
 

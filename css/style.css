@@ -82,10 +82,21 @@ body {
     margin: .36rem 0;
 }
 
-a { color: #19f; }
-a:hover { color:#E69; text-shadow: 0px 0px 1px #E69;}
+/* a { color: #19f; } */
+/* a:hover { color:#E69; text-shadow: 0px 0px 1px #E69;} */
+a { color: #FF0F00; }
+/* a:hover { color:#E69; text-shadow: 0px 0px 1px #E69;} */
+a:hover {text-decoration: underline;}
 
-h2, h3, h4, h5, h6 {
+/* h2, h3, h4, h5, h6 { */
+/*     font-size: .20rem; */
+/*     margin: .16rem 0; */
+/* } */
+h2 {
+    font-size: .25rem;
+    margin: .16rem 0;
+}
+h3 {
     font-size: .20rem;
     margin: .16rem 0;
 }
@@ -100,17 +111,17 @@ h6 code:last-child {
     padding: 2px 6px;
 }
 
-h2 { color: #668BB6; }
-h2:before { content: "# "; }
+/* h2 { color: #668BB6; } */
+/* h2:before { content: "# "; } */
 
-h3 { color: #c396d8; }
-h3:before { content: "## "; }
+/* h3 { color: #c396d8; } */
+/* h3:before { content: "## "; } */
 
-h4 { color: #6fbfb1; }
-h4:before { content: "### "; }
+/* h4 { color: #6fbfb1; } */
+/* h4:before { content: "### "; } */
 
-h5 { color: #e77724; }
-h5:before { content: "#### "; }
+/* h5 { color: #e77724; } */
+/* h5:before { content: "#### "; } */
 
 
 /* paragrapn */
@@ -168,7 +179,11 @@ pre:hover {
 
 
 /* list */
-ul, ol { list-style-position: inside; }
+/* ul, ol { list-style-position: inside; } */
+ul, ol { padding-left: .16rem; }
+li {
+    margin-bottom:  .1rem;
+}
 
 li > ul, li > ol {
     padding-left: .16rem;
