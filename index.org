@@ -13,7 +13,7 @@ My research interests are in machine learning and computer vision, especially in
 
 * Publications
 ** Conference
-- Projection & Probability-Driven Black-Box Attack\\
+- [[https://arxiv.org/abs/2005.03837][Projection & Probability-Driven Black-Box Attack]]\\
   *Jie Li*, Rongrong Ji, Hong Liu, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian\\
   *CVPR, 2020* [[https://github.com/theFool32/PPBA][CODES]]
 - [[http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Universal_Adversarial_Perturbation_via_Prior_Driven_Uncertainty_Approximation_ICCV_2019_paper.html][Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation]]\\
@@ -33,6 +33,8 @@ My research interests are in machine learning and computer vision, especially in
 
 * Activies
 Conference reviewer: CVPR'20.
+* Awards
+- Xiamen University Scholarship, 2020
 * Contact
 *Institution:* School of Informatics, Xiamen University, China\\
 *Address:* Room 701, Administration Building #B, Haiyun Park, Xiamen University, 361005\\
