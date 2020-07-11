@@ -32,7 +32,7 @@ My research interests are in machine learning and computer vision, especially in
   *Multimedia Tools and Applications, 2019*
 
 * Activies
-Conference reviewer: CVPR'20.
+Conference reviewer: WACV'21, CVPR'20, ACCV'20.
 * Awards
 - Xiamen University Scholarship, 2020
 * Contact
