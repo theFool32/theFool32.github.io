@@ -30,6 +30,8 @@ My research interests are in machine learning and computer vision, especially in
 - [[https://link.springer.com/article/10.1007/s11042-017-5457-4][Font generation based on least squares conditional generative adversarial nets]]\\
   Xianming Lin, *Jie Li*, Hualin Zeng, Rongrong Ji\\
   *Multimedia Tools and Applications, 2019*
+* Working Experiences
+- 2020.06 - 2020.08, Research Intern, [[https://open.youtu.qq.com/#/open/aboutus/intro][Tencent Youtu Lab]].
 
 * Activies
 Conference reviewer: WACV'21, CVPR'20, ACCV'20.
