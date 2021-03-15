@@ -13,18 +13,21 @@ My research interests are in machine learning and computer vision, especially in
 
 * Publications
 ** Conference
+- Aha! Adaptive History-driven Attack for Decision-based Black-box Models\\
+  *Jie Li*, Rongrong Ji, Peixian Chen, Baochang Zhang, Xiaopeng Hong, Ruixin Zhang, Shaoxin Li, Jilin Li, Feiyue Huang, Yongjian Wu\\
+  *ICCV, 2021*
 - [[https://arxiv.org/abs/2005.03837][Projection & Probability-Driven Black-Box Attack]]\\
   *Jie Li*, Rongrong Ji, Hong Liu, Jianzhuang Liu, Bineng Zhong, Cheng Deng, Qi Tian\\
-  *CVPR, 2020* [[https://github.com/theFool32/PPBA][CODES]]
+  *CVPR, 2020* [[[https://github.com/theFool32/PPBA][CODES]]]
 - [[http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Universal_Adversarial_Perturbation_via_Prior_Driven_Uncertainty_Approximation_ICCV_2019_paper.html][Universal Adversarial Perturbation via Prior Driven Uncertainty Approximation]]\\
   Hong Liu, Rongrong Ji, *Jie Li*, Baochang Zhang, Yue Gao, Yongjian Wu, Feiyue Huang\\
-  *ICCV, 2019 (Oral)* [[https://github.com/LynnHongLiu/PDUA][CODES]]
+  *ICCV, 2019 (Oral)* [[[https://github.com/LynnHongLiu/PDUA][CODES]]]
 - [[http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Universal_Perturbation_Attack_Against_Image_Retrieval_ICCV_2019_paper.html][Universal Perturbation Attack Against Image Retrieval]]\\
   *Jie Li*, Rongrong Ji, Hong Liu, Xiaopeng Hong, Yue Gao, Qi Tian\\
-  *ICCV, 2019* [[https://github.com/theFool32/UAP_retrieval][CODES]]
+  *ICCV, 2019* [[[https://github.com/theFool32/UAP_retrieval][CODES]]]
 - [[https://aaai.org/ojs/index.php/AAAI/article/view/4899/4772][Learning Neural Bag-of-Matrix-Summarization with Riemannian Network]]\\
   Hong Liu, *Jie Li*, Rongrong Ji, and Yongjian Wu\\
-  *AAAI, 2019* [[https://github.com/theFool32/BoMS][CODES]]
+  *AAAI, 2019* [[[https://github.com/theFool32/BoMS][CODES]]]
 
 ** Journal
 - [[https://link.springer.com/article/10.1007/s11042-017-5457-4][Font generation based on least squares conditional generative adversarial nets]]\\
@@ -34,7 +37,7 @@ My research interests are in machine learning and computer vision, especially in
 - 2020.06 - 2020.08, Research Intern, [[https://open.youtu.qq.com/#/open/aboutus/intro][Tencent Youtu Lab]].
 
 * Activies
-Conference reviewer: CVPR'21, WACV'21, CVPR'20, ACCV'20.
+Conference reviewer: CVPR, ICCV, MM, ACCV, WACV, MM Asia.
 * Awards
 - Xiamen University Scholarship, 2020
 * Contact
