@@ -13,6 +13,9 @@ My research interests are in machine learning and computer vision, especially in
 
 * Publications
 ** Conference
+- [[https://arxiv.org/abs/2112.06658][Learning to Learn Transferable Attack]]\\
+  Shuman Fang, *Jie Li*, Xianming Lin, Rongrong Ji\\
+  *AAAI, 2021*
 - [[https://openaccess.thecvf.com/content/ICCV2021/html/Li_Aha_Adaptive_History-Driven_Attack_for_Decision-Based_Black-Box_Models_ICCV_2021_paper.html][Aha! Adaptive History-driven Attack for Decision-based Black-box Models]]\\
   *Jie Li*, Rongrong Ji, Peixian Chen, Baochang Zhang, Xiaopeng Hong, Ruixin Zhang, Shaoxin Li, Jilin Li, Feiyue Huang, Yongjian Wu\\
   *ICCV, 2021*
