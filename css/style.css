@@ -1,4 +1,4 @@
-/* 
+/*
 p.author	author information, including email
 p.date	publishing date
 p.creator	creator info, about org mode version
@@ -39,13 +39,13 @@ p.footnote	footnote definition paragraph, containing a footnote
 
 /* Site init style of TAOBAO */
 
-body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; } 
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
 /* body, button, input, select, textarea { font:12px/1.5tahoma, arial, \5b8b\4f53; }  */
-h1, h2, h3, h4, h5, h6{ font-size:100%; } 
+h1, h2, h3, h4, h5, h6{ font-size:100%; }
 /* address, cite, dfn, em, var { font-style:normal; }  */
 /* code, kbd, pre, samp { font-family:couriernew, courier, monospace; } small{ font-size:12px; } */
 /* ul, ol { list-style:none; } */
-a { text-decoration:none; } 
+a { text-decoration:none; }
 /* a:hover { text-decoration:underline; } */
 /* sup { vertical-align:text-top; } */
 /* sub{ vertical-align:text-bottom; } */
@@ -101,8 +101,8 @@ h3 {
     margin: .16rem 0;
 }
 
-h2 code:last-child, h3 code:last-child, 
-h4 code:last-child, h5 code:last-child, 
+h2 code:last-child, h3 code:last-child,
+h4 code:last-child, h5 code:last-child,
 h6 code:last-child {
     border-radius: 3px;
     background: #363;
@@ -260,7 +260,7 @@ th:last-child, td:last-child {
 
 #table-of-contents a { text-decoration: none; }
 
-#table-of-contents:hover { 
+#table-of-contents:hover {
     opacity: 1;
     left: 0;
     border-right: 1px solid #eee;
@@ -280,7 +280,7 @@ th:last-child, td:last-child {
 
 
 /* #postamble, .status */
-.status { 
+.status {
     color: #666;
     border-top: 2px solid #369;
     border-image: linear-gradient(to right, #f66 , #147) 30 30;
@@ -315,7 +315,7 @@ th:last-child, td:last-child {
 }
 
 .contect {
-    padding: .16rem 0;    
+    padding: .16rem 0;
 }
 
 .contect i {
@@ -340,8 +340,8 @@ th:last-child, td:last-child {
     right: 2%;
     font-size: .12rem;
     color: #222;
-    background: #eee;   
-    transition: .3s all ease-in-out;  
+    background: #eee;
+    transition: .3s all ease-in-out;
 }
 
 .top-btn:hover {
@@ -365,8 +365,8 @@ th:last-child, td:last-child {
     right: 2%;
     font-size: .12rem;
     color: #222;
-    background: #eee;   
-    transition: .3s all ease-in-out; 
+    background: #eee;
+    transition: .3s all ease-in-out;
 }
 
 .nav-btn:hover {
@@ -406,8 +406,8 @@ th:last-child, td:last-child {
     background: #c60;
     color: #eee;
     font-size: .12rem;
-    padding: 2px 6px;  
-    display: inline-block;    
+    padding: 2px 6px;
+    display: inline-block;
 }
 
 .priority {
@@ -451,12 +451,12 @@ th:last-child, td:last-child {
         overflow: auto;
     }
 
-    #table-of-contents { 
+    #table-of-contents {
         height: 400px;
         min-height: 400px;
         width: 100%;
-        top: -380px;   
-        left: 0;  
+        top: -380px;
+        left: 0;
         color: #369;
         opacity: 0;
         box-shadow: 0 1px 3px #999;

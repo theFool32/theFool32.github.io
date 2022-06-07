@@ -2,3 +2,4 @@ cv/*
 !cv/cv.tex
 !cv/res.cls
 !cv/cv.pdf
+.DS_Store
