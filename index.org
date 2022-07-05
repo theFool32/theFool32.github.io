@@ -11,6 +11,7 @@
 I am currently a third year Ph.D candidate at [[http://mac.xmu.edu.cn/][MAC Lab]], School of Informatics, [[https://www.xmu.edu.cn/][Xiamen University]].
 My advisor is Prof. [[http://mac.xmu.edu.cn/rrji-en.html][Rongrong Ji]].
 My research interests are in machine learning and computer vision, especially in robust deep learning.
+*Looking for a full-time job now!*
 
 
 # * Education
@@ -20,6 +21,9 @@ My research interests are in machine learning and computer vision, especially in
 
 * Publications
 ** Conference
+- [[https://arxiv.org/pdf/2105.00623v2.pdf][Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack]]\\
+  Yixu Wang, *Jie Li*, Hong Liu, Yan Wang, Yongjian Wu, Feiyue Huang, Rongrong Ji\\
+  *ECCV, 2022*
 - [[https://arxiv.org/abs/2112.06658][Learning to Learn Transferable Attack]]\\
   Shuman Fang*, *Jie Li**, Xianming Lin, Rongrong Ji\\
   *AAAI, 2021* [[[https://github.com/fangshuman/LLTA][code]]]
@@ -47,7 +51,7 @@ My research interests are in machine learning and computer vision, especially in
 - 2020.06 - 2020.08, Research Intern, [[https://open.youtu.qq.com/#/open/aboutus/intro][Tencent Youtu Lab]].
 
 * Activies
-Conference reviewer: CVPR, ICCV, ECCV, AAAI, MM, ACCV, WACV, MM Asia.
+Reviewer: TIP, CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM, ACCV, WACV, MM Asia.
 * Awards
 - Xiamen University Scholarship, 2020
 * Contact
