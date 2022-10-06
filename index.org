@@ -21,13 +21,13 @@ My research interests are in machine learning and computer vision, especially in
 
 * Publications
 ** Conference
-- [[https://arxiv.org/pdf/2105.00623v2.pdf][Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack]]\\
-  Yixu Wang, *Jie Li*, Hong Liu, Yan Wang, Yongjian Wu, Feiyue Huang, Rongrong Ji\\
+- [[https://arxiv.org/pdf/2105.00623v2.pdf][Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack]]
+  Yixu Wang, *Jie Li*, Hong Liu, Yan Wang, Yongjian Wu, Feiyue Huang, Rongrong Ji
   *ECCV, 2022*
-- [[https://arxiv.org/abs/2112.06658][Learning to Learn Transferable Attack]]\\
-  Shuman Fang*, *Jie Li**, Xianming Lin, Rongrong Ji\\
+- [[https://arxiv.org/abs/2112.06658][Learning to Learn Transferable Attack]]
+  Shuman Fang*, *Jie Li**, Xianming Lin, Rongrong Ji
   *AAAI, 2021* [[[https://github.com/fangshuman/LLTA][code]]]
-- [[https://openaccess.thecvf.com/content/ICCV2021/html/Li_Aha_Adaptive_History-Driven_Attack_for_Decision-Based_Black-Box_Models_ICCV_2021_paper.html][Aha! Adaptive History-driven Attack for Decision-based Black-box Models]]\\
+- [[https://openaccess.thecvf.com/content/ICCV2021/html/Li_Aha_Adaptive_History-Driven_Attack_for_Decision-Based_Black-Box_Models_ICCV_2021_paper.html][Aha! Adaptive History-driven Attack for Decision-based Black-box Models]]
   *Jie Li*, Rongrong Ji, Peixian Chen, Baochang Zhang, Xiaopeng Hong, Ruixin Zhang, Shaoxin Li, Jilin Li, Feiyue Huang, Yongjian Wu\\
   *ICCV, 2021* [[[https://github.com/theFool32/AHA][code]]]
 - [[https://arxiv.org/abs/2005.03837][Projection & Probability-Driven Black-Box Attack]]
@@ -44,6 +44,9 @@ My research interests are in machine learning and computer vision, especially in
   *AAAI, 2019* [[[https://github.com/theFool32/BoMS][code]]]
 
 ** Journal
+- Model Stealing Attack based on Sampling and Weighting
+  Yixu Wang, *Jie Li*, Hong Liu, Yan Wang, Mingliang Xu, Yongjian Wu, and Rongrong Ji.
+  *SCIENCE CHINA Information Sciences, 2022 (In Chinese)*
 - [[https://link.springer.com/article/10.1007/s11042-017-5457-4][Font generation based on least squares conditional generative adversarial nets]]
   Xianming Lin, *Jie Li*, Hualin Zeng, Rongrong Ji
   *Multimedia Tools and Applications, 2019*
