@@ -8,15 +8,9 @@
 [[https://scholar.google.com/citations?user=qmbcL0AAAAAJ&hl=en&oi=sra][Google Scholar]] / [[https://github.com/theFool32][GitHub]] / [[./cv/cv.pdf][Curriculum Vitae]]
 
 * About Me
-I am currently a last year Ph.D candidate at [[http://mac.xmu.edu.cn/][MAC Lab]], School of Informatics, [[https://www.xmu.edu.cn/][Xiamen University]].
-My advisor is Prof. [[http://mac.xmu.edu.cn/rrji-en.html][Rongrong Ji]].
+I am currently working at SenseTime.
+I received my doctoral degree from [[https://en.xmu.edu.cn/main.htm][Xiamen University]], under the supervision of [[https://mac.xmu.edu.cn/rrji_en/][Prof. Rongrong Ji]]. 
 My research interests are in machine learning and computer vision, especially in robust deep learning.
-
-
-# * Education
-
-# - M.S-Ph.D. candidate of Artificial Intelligence
-# - Bechelor of Computer Science
 
 * Publications
 ** Conference
