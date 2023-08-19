@@ -14,9 +14,12 @@ My research interests are in machine learning and computer vision, especially in
 
 * Publications
 ** Conference
+- [[https://arxiv.org/abs/2308.02606][Improving Human-Object Interaction Detection via Virtual Image Learning]]
+  Shuman Fang, Shuai Liu, *Jie Li*, Guannan Jiang, Xianming Lin, Rongrong Ji
+  *ACM MM, 2023*
 - [[https://arxiv.org/pdf/2105.00623v2.pdf][Black-Box Dissector: Towards Erasing-based Hard-Label Model Stealing Attack]]
   Yixu Wang, *Jie Li*, Hong Liu, Yan Wang, Yongjian Wu, Feiyue Huang, Rongrong Ji
-  *ECCV, 2022*
+  *ECCV, 2022* [[[https://github.com/yxwang-10/Blackbox-Dissector][code]]]
 - [[https://arxiv.org/abs/2112.06658][Learning to Learn Transferable Attack]]
   Shuman Fang*, *Jie Li**, Xianming Lin, Rongrong Ji
   *AAAI, 2022* [[[https://github.com/fangshuman/LLTA][code]]]
@@ -37,13 +40,18 @@ My research interests are in machine learning and computer vision, especially in
   *AAAI, 2019* [[[https://github.com/theFool32/BoMS][code]]]
 
 ** Journal
-- Model Stealing Attack based on Sampling and Weighting
+- HODN: Disentangling Human-Object Feature for HOI Detection
+  Shuman Fang, Zhiwen Lin, Ke Yan, *Jie Li*, Xianming Lin, Rongrong Ji
+  *IEEE Transactions on Multimedia, 2023*
+- [[https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0029;JSESSIONID=276fd65f-be34-4478-896e-45d79d2492ae][Model Stealing Attack based on Sampling and Weighting]]
   Yixu Wang, *Jie Li*, Hong Liu, Yan Wang, Mingliang Xu, Yongjian Wu, and Rongrong Ji.
   *SCIENCE CHINA Information Sciences, 2022 (In Chinese)*
 - [[https://link.springer.com/article/10.1007/s11042-017-5457-4][Font generation based on least squares conditional generative adversarial nets]]
   Xianming Lin, *Jie Li*, Hualin Zeng, Rongrong Ji
   *Multimedia Tools and Applications, 2019*
+
 * Working Experiences
+- 2023.07 - Now, Researcher, [[https://www.sensetime.com/][SenseTime]].
 - 2020.06 - 2020.08, Research Intern, [[https://open.youtu.qq.com/#/open/aboutus/intro][Tencent Youtu Lab]].
 
 * Activies
